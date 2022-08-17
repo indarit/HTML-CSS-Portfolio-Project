@@ -61,15 +61,21 @@ background-color: blue
 background-repeat: no-repeat;
 }
 
-#imagnes {
+#imagenes {
     display: flex;
-    flex-direction: row;
-    justify-content:center;
-    flex-wrap: wrap;
-    margin: 0 8vw;
+        flex-direction: row;
+        justify-content: space-between;
+        flex-wrap: wrap;
+        margin: 0 8vw;
+  padding-top: 5vw;
 }
 
 .configuracion-imagen {
     margin: 0 5px;
 
+}
+.footer{
+    text-align: center;
+padding: 15%;
+    
 }
