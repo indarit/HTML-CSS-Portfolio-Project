@@ -38,15 +38,25 @@ a {
     display: flex;
     justify-content: space-around;
     margin-left: auto;
-    margin-right: 5vw;
+    margin-right:auto;
 }
 
 .button-enlaces {
-    border-radius: 0;
+   border-radius: 0;
     border: none;
     background-color: rgb(35, 207, 219);
-    color: white;
+    color: rgb(5, 0, 0);
     width: 20vw;
     height: 3vw;
-    margin: 150px 10px;
+    margin: 50px 10px;
+}
+.subtitulos{
+    font-size: 30px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.modulo-proyectos{
+background-color: blue
+
+background-repeat: no-repeat;
 }
